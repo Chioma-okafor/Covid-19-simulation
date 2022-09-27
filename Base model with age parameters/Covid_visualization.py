@@ -1,7 +1,7 @@
 from mesa.visualization.modules import CanvasGrid, ChartModule, TextElement
 from mesa.visualization.TextVisualization import TextData
 from mesa.visualization.ModularVisualization import ModularServer
-from Covid_model import *
+from Covid_model_age import *
 
 
 
