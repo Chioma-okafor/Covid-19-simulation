@@ -1,6 +1,6 @@
 import pandas as pd
 import numpy as np
-from Covid_model import *
+from Covid_model_age import *
 import mesa
 df =  pd.read_excel('Parameters.xlsx')      #file that holds parameters for the model
 
