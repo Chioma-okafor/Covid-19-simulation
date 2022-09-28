@@ -2,6 +2,8 @@
 
 
 ## Base model
+Agent based model that uses SEIR as basis.
+
 ### Coivd_model
   Contains the code for the base model.
 
@@ -19,6 +21,8 @@
 
 
 ## Base model with age parameters
+The base model that uses a contact matrix to simulate the probability of contact.
+
 ### Covid_model_age
   Contains the code for the base model with age.
 
